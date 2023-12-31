@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AXkZqjt4z-QcG-MIaZ1YRwJE1aunupaVTw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 1
-http://93.157.62.180/RTSH1/index.m3u8
+https://idx.iptvfreemium.com/mnclokal/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNM0IxcKZu149p3WoaYMZ7r3ESeJSXDv9Tw&usqp=CAU" group-title="SPORTS.",Rtsh Sport 2
 http://93.157.62.180/RTSH2/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72n5ztvAsq5JI03Cc0ZmSqTy7s7DjS6ZnHQ&usqp=CAU" group-title="SPORTS.",Rtsh Sport 3
